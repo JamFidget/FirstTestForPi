@@ -1,1 +1,1 @@
-echo "FirstTestForPi" 
+print "First Test" 
